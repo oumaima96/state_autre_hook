@@ -1,0 +1,21 @@
+.app {
+  width: 751px;
+  margin: 10px auto auto auto;
+  background: white;
+  padding: 10px;
+}
+
+body {
+  background-color: #ffa50059
+}
+
+button {
+  cursor: pointer;
+}
+.toggleBtn{
+  background-color: rgb(18, 197, 12);;
+  padding: 1%;
+}
+.toggleBtn:hover{
+  background-color: rgb(17, 143, 202);
+}
